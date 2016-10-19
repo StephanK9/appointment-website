@@ -1,0 +1,9 @@
+p {
+  text-align: left;
+  color: red;
+}
+.personname {
+  text-align: center;
+  float: center;
+  color: turquoise;
+}
